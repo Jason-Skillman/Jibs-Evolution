@@ -1,15 +1,11 @@
-# Jib-s-Evolution
+# Jibs-Evolution
 
-Unity3D Project
+### Credits
 
-Complete source code for the Summer Game Jam 2018 competitions at New England Institute of Technology.
+#### Programmers
+- Jason Skillman
+- Vincent Kyne
 
-
-###Credits###
-Designers:
-Bella Weikman
-Amanda Coler
-
-Programmers:
-Jason Skillman
-Vincent Kyne
+#### Designers
+- Amanda Coler
+- Bella Weikman
